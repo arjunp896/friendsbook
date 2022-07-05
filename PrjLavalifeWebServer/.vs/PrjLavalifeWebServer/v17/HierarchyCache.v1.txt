@@ -1,0 +1,258 @@
+﻿++Solution 'PrjLavalifeWebServer' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:PrjLavalifeWebServer.sln
+++PrjLavalifeWebServer
+i:{00000000-0000-0000-0000-000000000000}:PrjLavalifeWebServer
+++Properties
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\properties\
+++References
+i:{30217556-468b-43e4-a885-9207c2df3154}:
+++App_Data
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\app_data\
+++css
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\css\
+++images
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\
+++js
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\js\
+++util
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\util\
+++Dashboard.aspx
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\dashboard.aspx
+++dashboard_1.aspx
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\dashboard_1.aspx
+++DBConnection.cs
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\dbconnection.cs
+++DbService.cs
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\dbservice.cs
+++Discussion.aspx
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\discussion.aspx
+++Discussion.aspx.cs
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\discussion.aspx.cs
+++Discussion.aspx.designer.cs
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\discussion.aspx.designer.cs
+++Friendbook.Master
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\friendbook.master
+++Friendbook.Master.cs
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\friendbook.master.cs
+++Friendbook.Master.designer.cs
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\friendbook.master.designer.cs
+++Global.asax
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\global.asax
+++index.aspx
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\index.aspx
+++login.aspx
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\login.aspx
+++login.aspx.cs
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\login.aspx.cs
+++login.aspx.designer.cs
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\login.aspx.designer.cs
+++LogOut.aspx
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\logout.aspx
+++packages.config
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\packages.config
+++signup.aspx
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\signup.aspx
+++signup.aspx.cs
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\signup.aspx.cs
+++signup.aspx.designer.cs
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\signup.aspx.designer.cs
+++UserProfile.aspx
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\userprofile.aspx
+++UserProfile.aspx.cs
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\userprofile.aspx.cs
+++UserProfile.aspx.designer.cs
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\userprofile.aspx.designer.cs
+++Web.config
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\web.config
+++AssemblyInfo.cs
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\properties\assemblyinfo.cs
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{30217556-468b-43e4-a885-9207c2df3154}:
+++Microsoft.CSharp
+i:{30217556-468b-43e4-a885-9207c2df3154}:
+++System
+i:{30217556-468b-43e4-a885-9207c2df3154}:
+++System.ComponentModel.DataAnnotations
+i:{30217556-468b-43e4-a885-9207c2df3154}:
+++System.Configuration
+i:{30217556-468b-43e4-a885-9207c2df3154}:
+++System.Data
+i:{30217556-468b-43e4-a885-9207c2df3154}:
+++System.Data.DataSetExtensions
+i:{30217556-468b-43e4-a885-9207c2df3154}:
+++System.Drawing
+i:{30217556-468b-43e4-a885-9207c2df3154}:
+++System.EnterpriseServices
+i:{30217556-468b-43e4-a885-9207c2df3154}:
+++System.Web
+i:{30217556-468b-43e4-a885-9207c2df3154}:
+++System.Web.ApplicationServices
+i:{30217556-468b-43e4-a885-9207c2df3154}:
+++System.Web.DynamicData
+i:{30217556-468b-43e4-a885-9207c2df3154}:
+++System.Web.Entity
+i:{30217556-468b-43e4-a885-9207c2df3154}:
+++System.Web.Extensions
+i:{30217556-468b-43e4-a885-9207c2df3154}:
+++System.Web.Services
+i:{30217556-468b-43e4-a885-9207c2df3154}:
+++System.Xml
+i:{30217556-468b-43e4-a885-9207c2df3154}:
+++System.Xml.Linq
+i:{30217556-468b-43e4-a885-9207c2df3154}:
+++bootstrap-tour.min.css
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\css\bootstrap-tour.min.css
+++finalbuild.css
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\css\finalbuild.css
+++style_changes.css
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\css\style_changes.css
+++backgrounds
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\backgrounds\
+++icons
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\icons\
+++landing
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\landing\
+++spring
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\spring\
+++000000-0.5.png
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\000000-0.5.png
+++ajax-loader.gif
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\ajax-loader.gif
+++FFFFFF-0.8.png
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\ffffff-0.8.png
+++ll_button_shadow_overlay.png
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\ll_button_shadow_overlay.png
+++sprites.png
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\sprites.png
+++angular.min.js
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\js\angular.min.js
+++angulartics-ga.js
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\js\angulartics-ga.js
+++angulartics.js
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\js\angulartics.js
+++app.js
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\js\app.js
+++bootstrap.min.js
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\js\bootstrap.min.js
+++cj-lavalife.js
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\js\cj-lavalife.js
+++controllers.js
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\js\controllers.js
+++dashboard.js
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\js\dashboard.js
+++directives.js
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\js\directives.js
+++functions.js
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\js\functions.js
+++jquery-ui.min.js
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\js\jquery-ui.min.js
+++jquery.min.js
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\js\jquery.min.js
+++plugins.js
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\js\plugins.js
+++Constants.cs
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\util\constants.cs
+++Dashboard.aspx.cs
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\dashboard.aspx.cs
+++Dashboard.aspx.designer.cs
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\dashboard.aspx.designer.cs
+++dashboard_1.aspx.cs
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\dashboard_1.aspx.cs
+++dashboard_1.aspx.designer.cs
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\dashboard_1.aspx.designer.cs
+++Global.asax.cs
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\global.asax.cs
+++index.aspx.cs
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\index.aspx.cs
+++index.aspx.designer.cs
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\index.aspx.designer.cs
+++LogOut.aspx.cs
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\logout.aspx.cs
+++LogOut.aspx.designer.cs
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\logout.aspx.designer.cs
+++Web.Debug.config
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\web.debug.config
+++Web.Release.config
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\web.release.config
+++LL_left_bg.jpg
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\backgrounds\ll_left_bg.jpg
+++LL_right_bg.jpg
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\backgrounds\ll_right_bg.jpg
+++gulp-dnx-dev.zip
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\icons\gulp-dnx-dev.zip
+++ll_logo_registration.png
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\icons\ll_logo_registration.png
+++ll_mainpage_circle_logo.png
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\icons\ll_mainpage_circle_logo.png
+++ll_registration_bttn_ic_login.png
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\icons\ll_registration_bttn_ic_login.png
+++ll_registration_bttn_ic_phone.png
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\icons\ll_registration_bttn_ic_phone.png
+++ll_registration_bttn_ic_signup.png
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\icons\ll_registration_bttn_ic_signup.png
+++ll_registration_ic_circle.png
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\icons\ll_registration_ic_circle.png
+++ll_registration_ic_facebook_white.png
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\icons\ll_registration_ic_facebook_white.png
+++ll_registration_ic_photo.png
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\icons\ll_registration_ic_photo.png
+++ll_welcome_ic_scrolltop.png
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\icons\ll_welcome_ic_scrolltop.png
+++ll_ic_facebook.png
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\landing\ll_ic_facebook.png
+++ll_ic_instagram.png
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\landing\ll_ic_instagram.png
+++ll_ic_pinterest.png
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\landing\ll_ic_pinterest.png
+++ll_ic_twitter.png
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\landing\ll_ic_twitter.png
+++ll_ic_youtube.png
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\landing\ll_ic_youtube.png
+++ll_logo_registration_circle_sml (1).png
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\landing\ll_logo_registration_circle_sml (1).png
+++ll_logo_registration_circle_sml (2).png
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\landing\ll_logo_registration_circle_sml (2).png
+++ll_logo_registration_circle_sml.png
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\landing\ll_logo_registration_circle_sml.png
+++ll_logodotcom_footer.png
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\landing\ll_logodotcom_footer.png
+++ll_welcome_design_img.png
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\landing\ll_welcome_design_img.png
+++ll_welcome_ic_app_store.png
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\landing\ll_welcome_ic_app_store.png
+++ll_welcome_ic_design.png
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\landing\ll_welcome_ic_design.png
+++ll_welcome_ic_google_play.png
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\landing\ll_welcome_ic_google_play.png
+++ll_welcome_ic_interest.png
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\landing\ll_welcome_ic_interest.png
+++ll_welcome_ic_profile.png
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\landing\ll_welcome_ic_profile.png
+++ll_welcome_Interest_img.png
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\landing\ll_welcome_interest_img.png
+++ll_welcome_profile_img.png
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\landing\ll_welcome_profile_img.png
+++red_text_mark.png
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\landing\red_text_mark.png
+++lavalife_bg_spring_2015.jpg
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\spring\lavalife_bg_spring_2015.jpg
+++lavalife_regist_text_header_v1.jpg
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\spring\lavalife_regist_text_header_v1.jpg
+++lavalife_regist_welcome_fullscreen_v1.jpg
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\spring\lavalife_regist_welcome_fullscreen_v1.jpg
+++lavalife_regist_welcome_fullscreen_v2.jpg
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\spring\lavalife_regist_welcome_fullscreen_v2.jpg
+++ll_check_email_img.jpg
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\spring\ll_check_email_img.jpg
+++ll_forgot_password_img.jpg
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\spring\ll_forgot_password_img.jpg
+++ll_login_img.jpg
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\spring\ll_login_img.jpg
+++ll_logo_gray_march2015.png
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\spring\ll_logo_gray_march2015.png
+++ll_logo_march2015.png
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\spring\ll_logo_march2015.png
+++ll_step1_img.jpg
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\spring\ll_step1_img.jpg
+++ll_welcome_app_bg.jpg
+i:{30217556-468b-43e4-a885-9207c2df3154}:d:\lasalle\sem iv\web server applications ii\repos\prjlavalifewebserver\prjlavalifewebserver\images\spring\ll_welcome_app_bg.jpg
